@@ -1,0 +1,8 @@
+# Reference dependencies; the notebook installs its own runtime dependencies.
+speechbrain
+soundfile
+tgt
+Unidecode
+torch
+pandas
+numpy
